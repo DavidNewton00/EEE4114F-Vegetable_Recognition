@@ -4,3 +4,5 @@ Machine Learning Vegetable recognition project for University of Cape Town EEE41
 Dataset from Kaggle:
 https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 https://www.researchgate.net/publication/352846889_DCNN-Based_Vegetable_Image_Classification_Using_Transfer_Learning_A_Comparative_Study
+
+Kritik Seth, "Fruits and Vegetables Image Recognition Dataset," Kaggle 2020 [https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition]
